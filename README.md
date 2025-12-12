@@ -1,8 +1,5 @@
+![Uploading image.png…]()
 
-
-<p align="center">
-  <img src="https://i.imgur.com/O7pZBMb.jpeg" alt="AI ML Banner" width="100%">
-</p>
 ## Hi there 👋 I'm R. Aditya Prakash  
 
 I am an AI enthusiast with a strong foundation in **Artificial Intelligence, Machine Learning, and Deep Learning**, backed by hands-on experience in applying these technologies to real-world problems. Over the past year, I've worked on transforming raw data into meaningful insights, building intelligent systems, and delivering end-to-end AI solutions.
