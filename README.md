@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 I'm R. Aditya Prakash  
 
-<!--
-**rayaproluaditya/rayaproluaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI enthusiast with a strong foundation in **Artificial Intelligence, Machine Learning, and Deep Learning**, backed by hands-on experience in applying these technologies to real-world problems. Over the past year, I've worked on transforming raw data into meaningful insights, building intelligent systems, and delivering end-to-end AI solutions.
 
-Here are some ideas to get you started:
+### 🔥 What I Do
+- 🤖 **Machine Learning:** Model development, experimentation, and optimization  
+- 🧠 **Deep Learning:** Image processing, NLP, and neural network architectures  
+- 📊 **Data Analysis:** Cleaning, preprocessing, visualization, and feature engineering  
+- 🧹 **OCR Automation:** Intelligent document processing and extraction  
+- 🌐 **Application Development:** AI-driven tools and interactive prototypes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced Deep Learning  
+- NLP & LLM-based applications  
+- MLOps and scalable AI deployment  
+
+### 👯 Looking to Collaborate On
+- AI/ML/DL research projects  
+- Data analysis + automation tools  
+- Open-source ML-based systems  
+
+### 💬 Ask Me About  
+AI, Machine Learning, Deep Learning, Data Analysis, OCR, Python, or anything tech!  
+
+### 📫 How to Reach Me  
+Email:adityarayaprolu2005@gmail.com 
+LinkedIn: www.linkedin.com/in/r-aditya-prakash-224609203 
+
+### ⚡ Fun Fact  
+I love exploring new ideas, building cool projects, and staying updated with the latest in AI.
+
+---
+
