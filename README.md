@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0706199d-2fef-42f1-815f-a5066bed2035" />
+
 
 ## Hi there 👋 I'm R. Aditya Prakash  
 
